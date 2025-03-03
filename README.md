@@ -12,3 +12,5 @@ pip install jupyter
 https://miktex.org/download
 
 Alternativa: exportar desde Google Colab
+
+para deshacer los commit, usar en la terminal (ctrl+ñ): git reset --soft HEAD~1
